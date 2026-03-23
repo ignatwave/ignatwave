@@ -72,7 +72,7 @@ export default function Navbar() {
                 className="text-white text-sm"
                 style={{ fontFamily: 'var(--font-display)', fontWeight: 700 }}
               >
-                i
+                ig
               </span>
             </div>
             <span
@@ -195,7 +195,7 @@ export default function Navbar() {
               className="w-7 h-7 rounded-lg flex items-center justify-center"
               style={{ background: 'linear-gradient(135deg,#f97316,#ea580c)', boxShadow: '0 0 12px rgba(249,115,22,0.4)' }}
             >
-              <span className="text-white text-xs" style={{ fontFamily: 'var(--font-display)', fontWeight: 700 }}>i</span>
+              <span className="text-white text-xs" style={{ fontFamily: 'var(--font-display)', fontWeight: 700 }}>ig</span>
             </div>
             <span className="text-white text-base" style={{ fontFamily: 'var(--font-display)', fontWeight: 700 }}>
               ignatwave
