@@ -1,15 +1,15 @@
-import Image from "next/image";
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import TechMarquee from './components/TechMarquee'
-import Services from './components/Services'
-import WhyUs from './components/WhyUs'
-import Work from './components/Work'
-import TechStack from './components/TechSack'
-import Team from './components/Team'
-import Testimonials from './components/Testimonials'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
+// ✅ CORRECT — use @/ alias (works from anywhere in the project)
+import Navbar       from '@/app/components/Navbar'
+import Hero         from '@/app/components/Hero'
+import TechMarquee  from '@/app/components/TechMarquee'
+import Services     from '@/app/components/Services'
+import WhyUs        from '@/app/components/WhyUs'
+import Work         from '@/app/components/Work'
+import TechStack    from '@/app/components/TechSack'
+import Team         from '@/app/components/Team'
+import Testimonials from '@/app/components/Testimonials'
+import Contact      from '@/app/components/Contact'
+import Footer       from '@/app/components/Footer'
 
 export default function Home() {
   return (
