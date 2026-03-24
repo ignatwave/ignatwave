@@ -35,7 +35,7 @@ export default function Footer() {
         {/* Bottom tagline */}
         <div className="mt-8 text-center">
           <p className="font-mono text-xs text-white/15 tracking-widest uppercase">
-            Built with ❤ — We Build Creators. And With Creators, We Build Companies.
+           Built with  by Ignatwave — We Build Creators. And With Creators, We Build Companies.
           </p>
         </div>
       </div>
